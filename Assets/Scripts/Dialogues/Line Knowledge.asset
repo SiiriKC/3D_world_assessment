@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c2032292a24245e4828b3832286221c, type: 3}
+  m_Name: Line Knowledge
+  m_EditorClassIdentifier: 
+  Statement: I know where you can get it from. But this knowledge will cost you 3
+    gold nuggets.
+  Responses:
+  - {fileID: 11400000, guid: f3fcff8eca7bf4e64b4bd4c485cd3786, type: 2}
+  - {fileID: 11400000, guid: 02654a3f3719e4bcdb525cbbc1818a2a, type: 2}
